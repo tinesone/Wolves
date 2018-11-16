@@ -18,6 +18,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+library/
+temp/
+obj/
+
 # =========================
 # Operating System Files
 # =========================
